@@ -55,8 +55,9 @@ Customer-Shopping-Behavior-Analysis/
 │   └── Customer_behavior.png
 │
 └── README.md
+```
 📊 Dashboard Preview
-
+<img src="dashboard/Customer_behavior.png" alt="Customer Shopping Behavior Dashboard" width="900">
 🔍 Key Analysis Areas
 Customer purchasing patterns
 Product and category analysis
